@@ -29,7 +29,3 @@ catboost_info/
 .DS_Store
 Thumbs.db
 
-# Competition
-statement.pdf
-
-
